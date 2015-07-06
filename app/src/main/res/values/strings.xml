@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Farabco</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="arabic">عربي</string>
+    <string name="action_settings">Settings</string>
+    <string name="franco">Franco</string>
+    <string name="translate">Translate | حول</string>
+    <string name="title_activity_about_me">AboutMe</string>
+    <string name="about_me">About Me</string>
+    <string name="title_activity_splasch_screen">SplaschScreen</string>
+    <string name="title_activity_splash_screen">SplashScreen</string>
+
+</resources>
